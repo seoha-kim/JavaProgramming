@@ -46,7 +46,5 @@ public class CalendarEx {
 		firstDate.set(Calendar.HOUR_OF_DAY, 20); // 저녁 8
 		firstDate.set(Calendar.MINUTE, 30); // 30
 		printCalendar("처음 데이트한 날은 ", firstDate);
-
 	}
-
 }
